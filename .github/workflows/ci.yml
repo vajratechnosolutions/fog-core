@@ -1,4 +1,4 @@
-name: CI
+name: CI akbank28/vajratechnosoultions 
 
 on:
   push:
